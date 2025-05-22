@@ -16,6 +16,3 @@ This project implements a Mealy-type finite state machine using VHDL.
 - `mealy.vhd`: FSM implementation
 - `waveForms.png`: Simulation screenshot
 - `stateDiagram.png`: Simulation state diagram screenshot
-
-## Preview
-![Waveform](img/waveForms.png)
