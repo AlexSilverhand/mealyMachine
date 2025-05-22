@@ -18,4 +18,4 @@ This project implements a Mealy-type finite state machine using VHDL.
 - `stateDiagram.png`: Simulation state diagram screenshot
 
 ## Preview
-![Waveform](img/waveForm.png)
+![Waveform](waveForm.png)
